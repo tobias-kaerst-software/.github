@@ -23,3 +23,13 @@ _**[autoripper](https://github.com/tobias-kaerst-software/autoripper)**_ is an a
 <br>
 
 ---
+
+### elysia-helmet
+
+<a href="https://github.com/tobias-kaerst-software/elysia-helmet">
+    <img align="right" width="40%" style="margin: 0 5px" src="https://github-readme-stats.vercel.app/api/pin/?username=tobias-kaerst-software&repo=elysia-helmet&theme=ambient_gradient" alt="elysia-helmet GitHub Stats">
+</a>
+
+_**[elysia-helmet](https://github.com/tobias-kaerst-software/elysia-helmet)**_ is a port of the official helmet plugin for express to the elysia framework, the "TypeScript framework supercharged by Bun with End-to-End Type Safety, unified type system, and outstanding developer experience". It provides a set of middleware functions to help secure your application by setting various HTTP headers.
+
+<br>
